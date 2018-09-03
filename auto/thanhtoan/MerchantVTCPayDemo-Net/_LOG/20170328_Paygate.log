@@ -1,0 +1,83 @@
+03/28/2017 10:17:47: :	NLogLogger.GetCalleeString 
+	Textsign: 20000|VND|01679253036|20170328101735|QR|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:3DAAB84C4E0EDE5149F32722AF3AFC92533244B1733188263BFF3E9DE611E98D
+03/28/2017 10:17:47: :	NLogLogger.GetCalleeString 
+	
+------------Start----------------
+03/28/2017 10:17:47: :	NLogLogger.GetCalleeString 
+	urlFull: http://alpha1.vtcpay.vn/portalgateway/checkout.html?website_id=453&amount=20000&receiver_account=01679253036&reference_number=20170328101735&currency=VND&signature=3DAAB84C4E0EDE5149F32722AF3AFC92533244B1733188263BFF3E9DE611E98D&transaction_type=QR
+03/28/2017 10:18:19: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170328101735|1|20000|453
+sign: 
+Vefify: False
+03/28/2017 10:18:21: :	NLogLogger.GetCalleeString 
+	Ket qua GET:http://sandbox3.vtcebank.vn/merchantv1.5/done.aspx?status=1&website_id=453&order_code=20170328101735&amount=20000&sign=0A9876F1C7A979C67B89823A02A9CD9D6CBD5488EA9E9D73AABE9F998B958AFC
+03/28/2017 10:18:21: :	NLogLogger.GetCalleeString 
+	------------End----------------
+03/28/2017 11:44:21: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170328114415|404|30000|453
+sign: 
+Vefify: False
+03/28/2017 11:45:17: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170328114432|404|30000|453
+sign: 
+Vefify: False
+03/28/2017 11:59:14: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170328115843|404|30000|453
+sign: 
+Vefify: False
+03/28/2017 13:25:19: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170328132514|404|30000|453
+sign: 
+Vefify: False
+03/28/2017 13:25:44: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170328132520|404|30000|453
+sign: 
+Vefify: False
+03/28/2017 13:26:24: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170328132619|404|30000|453
+sign: 
+Vefify: False
+03/28/2017 13:27:41: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170328132628|404|30000|453
+sign: 
+Vefify: False
+03/28/2017 13:31:26: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170328133123|404|30000|453
+sign: 
+Vefify: False
+03/28/2017 13:31:57: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170328133154|404|30000|453
+sign: 
+Vefify: False
+03/28/2017 14:07:36: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170328140728|404|30000|453
+sign: 
+Vefify: False
+03/28/2017 14:08:01: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170328140737|404|30000|453
+sign: 
+Vefify: False
+03/28/2017 14:12:16: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170328141137|404|30000|453
+sign: 
+Vefify: False
+03/28/2017 14:44:51: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170328144438|404|30000|453
+sign: 
+Vefify: False
+03/28/2017 14:45:21: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170328144506|404|30000|453
+sign: 
+Vefify: False
+03/28/2017 14:48:43: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170328144837|404|30000|453
+sign: 
+Vefify: False
+03/28/2017 16:01:24: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170328160114|404|30000|453
+sign: 
+Vefify: False
+03/28/2017 18:02:58: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 10000|||20170328180240|-9|4746796|627
+sign: 51F5E2F472796629966FB970454DAC27D18FEC9608EEF7669F4584B8FF402BF4
+Vefify: True

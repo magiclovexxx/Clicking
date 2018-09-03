@@ -1,0 +1,200 @@
+09/13/2016 08:45:04: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913084500|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:E2E736D867DF04FF6EC5FD54E962C7CFF1A45441D4F191AA008ADA1246789149
+09/13/2016 08:45:04: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20160913084500&currency=VND&signature=E2E736D867DF04FF6EC5FD54E962C7CFF1A45441D4F191AA008ADA1246789149
+09/13/2016 09:00:01: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20160913085654|404|30000|453
+sign: FCC1F0348DCEB04057FD0FFCB1ECBE59461DE6E2091F696BA4A757C1AAE98833
+Vefify: True
+09/13/2016 09:02:50: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913090244|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:C01A2E1784C30476EC29D8082D8868B469E02DC5C17C17321E88ECE468D958EC
+09/13/2016 09:02:50: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20160913090244&currency=VND&signature=C01A2E1784C30476EC29D8082D8868B469E02DC5C17C17321E88ECE468D958EC
+09/13/2016 11:04:08: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913110351|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:974910B798CCB6506AD95A52ED0F0ACA337BDD9F0379713DD6A3274688E3AE16
+09/13/2016 11:04:09: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20160913110351&currency=VND&signature=974910B798CCB6506AD95A52ED0F0ACA337BDD9F0379713DD6A3274688E3AE16
+09/13/2016 11:04:11: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913110322|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:DE97FF9F7F499AB3CEEF1E4B8179027DB203644BC848B09064C8B6F67052E5F8
+09/13/2016 11:04:11: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20160913110322&currency=VND&signature=DE97FF9F7F499AB3CEEF1E4B8179027DB203644BC848B09064C8B6F67052E5F8
+09/13/2016 11:04:53: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0983666999|20160913110445|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:66CC7C7CFB5642594692F3D8C21D5CF417D481E568662FACE5D62A297C2477A6
+09/13/2016 11:04:53: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0983666999&reference_number=20160913110445&currency=VND&signature=66CC7C7CFB5642594692F3D8C21D5CF417D481E568662FACE5D62A297C2477A6
+09/13/2016 11:05:15: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913110511|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:7B6F0B67324260EB33C1BD5584144E0C4691DEE5643EDD074EA9FFDC87E76227
+09/13/2016 11:05:15: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20160913110511&currency=VND&signature=7B6F0B67324260EB33C1BD5584144E0C4691DEE5643EDD074EA9FFDC87E76227
+09/13/2016 11:07:54: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913110351|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:974910B798CCB6506AD95A52ED0F0ACA337BDD9F0379713DD6A3274688E3AE16
+09/13/2016 11:07:54: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20160913110351&currency=VND&signature=974910B798CCB6506AD95A52ED0F0ACA337BDD9F0379713DD6A3274688E3AE16
+09/13/2016 11:08:08: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0983666999|20160913110802|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:9F9CF6EF34CE26CF0E3B6C5B58DE93256C69414E1E2BCF142364AC8D1B8DBEC7
+09/13/2016 11:08:08: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0983666999&reference_number=20160913110802&currency=VND&signature=9F9CF6EF34CE26CF0E3B6C5B58DE93256C69414E1E2BCF142364AC8D1B8DBEC7
+09/13/2016 11:09:58: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0983666999|20160913110953|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:DC0D07F43B6E3F933A94194B97BBE2272B053A4BACF2E6392CF513948449B9FB
+09/13/2016 11:09:58: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=10000&receiver_account=0983666999&reference_number=20160913110953&currency=VND&signature=DC0D07F43B6E3F933A94194B97BBE2272B053A4BACF2E6392CF513948449B9FB
+09/13/2016 11:10:28: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0983666999|20160913111024|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:507CF694314D005F4D39BD40C0F0772C61B4CD99521A60C03FBA0F9448D2948F
+09/13/2016 11:10:28: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0983666999&reference_number=20160913111024&currency=VND&signature=507CF694314D005F4D39BD40C0F0772C61B4CD99521A60C03FBA0F9448D2948F
+09/13/2016 11:12:24: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0983666999|20160913111218|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:7089B066CBE44EE98CBA5178E737A8F85BC5830D50FDE2D49474F0A347917436
+09/13/2016 11:12:24: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0983666999&reference_number=20160913111218&currency=VND&signature=7089B066CBE44EE98CBA5178E737A8F85BC5830D50FDE2D49474F0A347917436
+09/13/2016 11:29:53: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913112946|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:132CF9E324A63A99BDD086C7CE32AA2B0D2EB72847601C0B3E6DC4A0ADE9E7A6
+09/13/2016 11:29:53: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20160913112946&currency=VND&signature=132CF9E324A63A99BDD086C7CE32AA2B0D2EB72847601C0B3E6DC4A0ADE9E7A6
+09/13/2016 11:41:30: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0983666999|20160913114124|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:767A6A01240419B4C5FCC4B92246AC1B36D3F61739A59D40B86E81BD3BBBE3E9
+09/13/2016 11:41:30: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0983666999&reference_number=20160913114124&currency=VND&signature=767A6A01240419B4C5FCC4B92246AC1B36D3F61739A59D40B86E81BD3BBBE3E9
+09/13/2016 11:51:20: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0904646496|20160913115107|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:579BA23B6884C7DDFBFFAEB0F749A1F0140FB07C8897661243D72C25432962C4
+09/13/2016 11:51:20: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0904646496&reference_number=20160913115107&currency=VND&signature=579BA23B6884C7DDFBFFAEB0F749A1F0140FB07C8897661243D72C25432962C4
+09/13/2016 13:14:02: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0904646496|20160913131139|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:41AA01871674F0D1C598D7DA19577F1150BE41ED0B0990C1AF3F7DCC19C07216
+09/13/2016 13:14:02: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0904646496&reference_number=20160913131139&currency=VND&signature=41AA01871674F0D1C598D7DA19577F1150BE41ED0B0990C1AF3F7DCC19C07216
+09/13/2016 13:15:05: :	NLogLogger.GetCalleeString 
+	Textsign: 5000|VND|0983666999|20160913131400|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:B423F7FF9B0F8E9E35CA73AB8028E7E981E55C72F98780B693BE8FD2245B992C
+09/13/2016 13:15:05: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=5000&receiver_account=0983666999&reference_number=20160913131400&currency=VND&signature=B423F7FF9B0F8E9E35CA73AB8028E7E981E55C72F98780B693BE8FD2245B992C
+09/13/2016 13:19:14: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913131910|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:838135B691CEB6F8D8E8D020FBBAD61E9C72990D080C6ED98B68D6685BB2D344
+09/13/2016 13:19:14: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20160913131910&currency=VND&signature=838135B691CEB6F8D8E8D020FBBAD61E9C72990D080C6ED98B68D6685BB2D344
+09/13/2016 13:19:21: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0989748722|20160913131502|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:67B9B7928A54D2DBAE1B6E5A6E9C2F20FE2E3FB1E42740F1E1562BE9DB7FE0F1
+09/13/2016 13:19:21: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0989748722&reference_number=20160913131502&currency=VND&signature=67B9B7928A54D2DBAE1B6E5A6E9C2F20FE2E3FB1E42740F1E1562BE9DB7FE0F1
+09/13/2016 13:22:14: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913132210|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:B55343A0BBEA636E64B126A429661B6BB94D048D8228E733DA25E866CC226B95
+09/13/2016 13:22:14: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20160913132210&currency=VND&signature=B55343A0BBEA636E64B126A429661B6BB94D048D8228E733DA25E866CC226B95
+09/13/2016 13:24:22: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913132419|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:DC7C9DB6723EF1500669DEB371ED3BFB7ACF2F0FD2414DECE8E55A5A15ED92C1
+09/13/2016 13:24:22: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20160913132419&currency=VND&signature=DC7C9DB6723EF1500669DEB371ED3BFB7ACF2F0FD2414DECE8E55A5A15ED92C1
+09/13/2016 13:34:12: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913133409|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:DB3D3219B1807C61283036F50AA65A8374F52F4934C0AC0CB2EA262940CBEEC2
+09/13/2016 13:34:12: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20160913133409&currency=VND&signature=DB3D3219B1807C61283036F50AA65A8374F52F4934C0AC0CB2EA262940CBEEC2
+09/13/2016 13:39:44: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0904646496|20160913133932|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:E61ED7EA31814B31AFF7012611D05F2C5F45181E1B25F50C6F398D8870AA5290
+09/13/2016 13:39:44: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0904646496&reference_number=20160913133932&currency=VND&signature=E61ED7EA31814B31AFF7012611D05F2C5F45181E1B25F50C6F398D8870AA5290
+09/13/2016 13:44:14: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0904646496|20160913134356|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:66F60A68040FEA056700AFAFC99B8B2EFE4F48A8EAEB7FB3D5F24CAEA5F40BEA
+09/13/2016 13:44:14: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0904646496&reference_number=20160913134356&currency=VND&signature=66F60A68040FEA056700AFAFC99B8B2EFE4F48A8EAEB7FB3D5F24CAEA5F40BEA
+09/13/2016 13:45:57: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913134554|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:885EB25EADC05DCE070867BC101E00F31870AE5DE5A0DD3CBD94BF5B28093531
+09/13/2016 13:45:57: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20160913134554&currency=VND&signature=885EB25EADC05DCE070867BC101E00F31870AE5DE5A0DD3CBD94BF5B28093531
+09/13/2016 13:49:16: :	NLogLogger.GetCalleeString 
+	Textsign: 5000|VND|0983666999|20160913134554|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:F49C636C1DA718B90575D21B16CE11CF1A050765E8D0B945B2A3680B58298768
+09/13/2016 13:49:16: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=5000&receiver_account=0983666999&reference_number=20160913134554&currency=VND&signature=F49C636C1DA718B90575D21B16CE11CF1A050765E8D0B945B2A3680B58298768
+09/13/2016 13:51:04: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0983666999|20160913135057|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:6AD7328B246163DB97F28D6BEAAFD5F3AAB0A76892FECC571B36A94873C69732
+09/13/2016 13:51:04: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0983666999&reference_number=20160913135057&currency=VND&signature=6AD7328B246163DB97F28D6BEAAFD5F3AAB0A76892FECC571B36A94873C69732
+09/13/2016 13:52:21: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0989748722|20160913134721|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:CEC708F356CAE58D7386BCE1C4381A38BD80EC60D0B208AE21FE36991A63045B
+09/13/2016 13:52:21: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0989748722&reference_number=20160913134721&currency=VND&signature=CEC708F356CAE58D7386BCE1C4381A38BD80EC60D0B208AE21FE36991A63045B
+09/13/2016 13:53:11: :	NLogLogger.GetCalleeString 
+	Textsign: 5000|VND|0983666999|20160913135305|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:F239FA08B391C862AC6F376841F6366E6FADF0334B21FD8680A756ABC26943A4
+09/13/2016 13:53:11: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=5000&receiver_account=0983666999&reference_number=20160913135305&currency=VND&signature=F239FA08B391C862AC6F376841F6366E6FADF0334B21FD8680A756ABC26943A4
+09/13/2016 13:55:01: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913135439|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:DF900042B1FA364A8B265FBC5DEC523687ABCD02DFEB5196E3F74384877FECED
+09/13/2016 13:55:01: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20160913135439&currency=VND&signature=DF900042B1FA364A8B265FBC5DEC523687ABCD02DFEB5196E3F74384877FECED
+09/13/2016 13:55:24: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0989748722|20160913135501|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:EFAF040ED5A3A05A769E36AB0A550EC2F8CA9DE414EBFC1375BDAFC698B58CE2
+09/13/2016 13:55:24: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0989748722&reference_number=20160913135501&currency=VND&signature=EFAF040ED5A3A05A769E36AB0A550EC2F8CA9DE414EBFC1375BDAFC698B58CE2
+09/13/2016 13:55:41: :	NLogLogger.GetCalleeString 
+	Textsign: 5000|VND|0983666999|20160913135534|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:FDA10EF2A4E5643B8C3DF1DCC66768E2FDEAB656A6D5A8EF0CDCA2919A050D76
+09/13/2016 13:55:41: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=5000&receiver_account=0983666999&reference_number=20160913135534&currency=VND&signature=FDA10EF2A4E5643B8C3DF1DCC66768E2FDEAB656A6D5A8EF0CDCA2919A050D76
+09/13/2016 13:56:27: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0983666999|20160913135621|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:2FE66A639E83DB0556C6A02F94964A489C5FB4BD8F94787B1A33313D16043C9A
+09/13/2016 13:56:27: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0983666999&reference_number=20160913135621&currency=VND&signature=2FE66A639E83DB0556C6A02F94964A489C5FB4BD8F94787B1A33313D16043C9A
+09/13/2016 13:58:22: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0983666999|20160913135815|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:B3669ED12606035D3D33B2B98AA405A1F68DCAD7274E2B148257891425E1BCE9
+09/13/2016 13:58:22: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0983666999&reference_number=20160913135815&currency=VND&signature=B3669ED12606035D3D33B2B98AA405A1F68DCAD7274E2B148257891425E1BCE9
+09/13/2016 13:59:40: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913135936|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:4E7B5428A6748C08ADDB08E972B62403D412D22EA97DD861FBEB1942F140ED18
+09/13/2016 13:59:40: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20160913135936&currency=VND&signature=4E7B5428A6748C08ADDB08E972B62403D412D22EA97DD861FBEB1942F140ED18
+09/13/2016 14:00:24: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0983666999|20160913140015|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:71E805E80AE9482F0A6A823B37714DE71CE926579216D2B8D86CBBAD65B0D3B4
+09/13/2016 14:00:24: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=10000&receiver_account=0983666999&reference_number=20160913140015&currency=VND&signature=71E805E80AE9482F0A6A823B37714DE71CE926579216D2B8D86CBBAD65B0D3B4
+09/13/2016 14:00:35: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0904646496|20160913140023|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:00818BCE5C59487767BC76B9F523C09BE1CAD5E1ED396D44F8F2887EE7F0C490
+09/13/2016 14:00:35: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0904646496&reference_number=20160913140023&currency=VND&signature=00818BCE5C59487767BC76B9F523C09BE1CAD5E1ED396D44F8F2887EE7F0C490
+09/13/2016 14:00:35: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0983666999|20160913140030|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:6EE909BA4B8068E71DF70E03766AA68D69F454E879F6FB67617A6CC217562BFA
+09/13/2016 14:00:35: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0983666999&reference_number=20160913140030&currency=VND&signature=6EE909BA4B8068E71DF70E03766AA68D69F454E879F6FB67617A6CC217562BFA
+09/13/2016 14:03:52: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0904646496|20160913140339|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:BA5AF9FE85357BBA4CB91E9B1563C4010272D39159A687DC64BD656F32B9140F
+09/13/2016 14:03:52: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0904646496&reference_number=20160913140339&currency=VND&signature=BA5AF9FE85357BBA4CB91E9B1563C4010272D39159A687DC64BD656F32B9140F
+09/13/2016 15:00:44: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0904646496|20160913150034|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:361B7F68D5BBC8ECA1A3865010241F8108B3C52190FCDD09DA4F5C189ED6297C
+09/13/2016 15:00:44: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0904646496&reference_number=20160913150034&currency=VND&signature=361B7F68D5BBC8ECA1A3865010241F8108B3C52190FCDD09DA4F5C189ED6297C
+09/13/2016 15:01:09: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0904646496|20160913150034|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:361B7F68D5BBC8ECA1A3865010241F8108B3C52190FCDD09DA4F5C189ED6297C
+09/13/2016 15:01:09: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0904646496&reference_number=20160913150034&currency=VND&signature=361B7F68D5BBC8ECA1A3865010241F8108B3C52190FCDD09DA4F5C189ED6297C
+09/13/2016 15:32:55: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913153253|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:EC8476ED81447D4A7F4D823B1A03C939FE2FA82E2DC78250461BB129F029980C
+09/13/2016 15:32:55: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20160913153253&currency=VND&signature=EC8476ED81447D4A7F4D823B1A03C939FE2FA82E2DC78250461BB129F029980C
+09/13/2016 15:52:30: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0983666999|20160913155218|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:16B7E7B20CF300389B832A7C9DCBC4A644BB34AE044BCA8090B19936AF8A17BA
+09/13/2016 15:52:30: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0983666999&reference_number=20160913155218&currency=VND&signature=16B7E7B20CF300389B832A7C9DCBC4A644BB34AE044BCA8090B19936AF8A17BA
+09/13/2016 15:54:02: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913155356|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:68410EEE9E5453E486BB0FC07E51C5C895D65ED740C60D9F3450C2E0F4722194
+09/13/2016 15:54:02: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20160913155356&currency=VND&signature=68410EEE9E5453E486BB0FC07E51C5C895D65ED740C60D9F3450C2E0F4722194
+09/13/2016 16:11:09: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913161057|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:15D49634F764B422A3B696C8EE62CCC74E3C2C1B428D421AB6DFDF30D42A0CB2
+09/13/2016 16:11:09: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20160913161057&currency=VND&signature=15D49634F764B422A3B696C8EE62CCC74E3C2C1B428D421AB6DFDF30D42A0CB2
+09/13/2016 16:40:50: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0904646496|20160913164037|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:02C6847D91A38A7CF04BF93EC94A76933C2DA7EE121103B0C26ABF224698C0AA
+09/13/2016 16:40:50: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0904646496&reference_number=20160913164037&currency=VND&signature=02C6847D91A38A7CF04BF93EC94A76933C2DA7EE121103B0C26ABF224698C0AA
+09/13/2016 16:42:12: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0904646496|20160913164155|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:98469AC3B508364C689A093B52829B332340F5AEC55FD11099CBFBBD8EE2F1EA
+09/13/2016 16:42:12: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=10000&receiver_account=0904646496&reference_number=20160913164155&currency=VND&signature=98469AC3B508364C689A093B52829B332340F5AEC55FD11099CBFBBD8EE2F1EA
+09/13/2016 16:48:55: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913164849|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:49D537FA24299AC07C07142A79DAD2B3D82F2AC138A79FE35F5BB9D4E8A82DD5
+09/13/2016 16:48:55: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20160913164849&currency=VND&signature=49D537FA24299AC07C07142A79DAD2B3D82F2AC138A79FE35F5BB9D4E8A82DD5
+09/13/2016 17:12:29: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913171227|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:51DE3FF2C1D336A1FCACDA0145B10B4126A8C790269DF7C5CF4A59E2C3D02DC3
+09/13/2016 17:12:29: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20160913171227&currency=VND&signature=51DE3FF2C1D336A1FCACDA0145B10B4126A8C790269DF7C5CF4A59E2C3D02DC3
+09/13/2016 17:12:38: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160913171235|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:C72F6D884F629E36741C767D4B8C2B794D9FE78A96581AFFB3426820912FF3C1
+09/13/2016 17:12:38: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20160913171235&currency=VND&signature=C72F6D884F629E36741C767D4B8C2B794D9FE78A96581AFFB3426820912FF3C1

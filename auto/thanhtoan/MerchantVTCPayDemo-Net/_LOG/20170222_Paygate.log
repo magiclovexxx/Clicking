@@ -1,0 +1,116 @@
+02/22/2017 09:36:10: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|01655055918|20170222093552|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:76DC9440EFF590ED9DB42F26AF82D4D9CA424420639722D7D5EFFDA98195F9CC
+02/22/2017 09:36:10: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=10000&receiver_account=01655055918&reference_number=20170222093552&currency=VND&signature=76DC9440EFF590ED9DB42F26AF82D4D9CA424420639722D7D5EFFDA98195F9CC&transaction_type=QR
+02/22/2017 09:39:43: :	NLogLogger.GetCalleeString 
+	Textsign: 6|VND|01655055918|20170222093552|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:FE10DEC64070FE37119EC13112F9D0C37436A882C3A36A4DD985E3A42A84FC24
+02/22/2017 09:39:43: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=6&receiver_account=01655055918&reference_number=20170222093552&currency=VND&signature=FE10DEC64070FE37119EC13112F9D0C37436A882C3A36A4DD985E3A42A84FC24&transaction_type=QR
+02/22/2017 09:57:38: :	NLogLogger.GetCalleeString 
+	Textsign: 6|VND|01655055918|20170222095728|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:D34EA118BFA5A547C7FD2458B75AD562027C4A1A05562678F8FE220E682B2E8E
+02/22/2017 09:57:38: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=6&receiver_account=01655055918&reference_number=20170222095728&currency=VND&signature=D34EA118BFA5A547C7FD2458B75AD562027C4A1A05562678F8FE220E682B2E8E&transaction_type=QR
+02/22/2017 09:59:36: :	NLogLogger.GetCalleeString 
+	Textsign: 6|VND|0983666999|20170222095728|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:5AB451A3E2FE1E5D0D0028114AE7A94AF9AC0C069820BE7A5316C86EEF7A9C2D
+02/22/2017 09:59:36: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=6&receiver_account=0983666999&reference_number=20170222095728&currency=VND&signature=5AB451A3E2FE1E5D0D0028114AE7A94AF9AC0C069820BE7A5316C86EEF7A9C2D&transaction_type=QR
+02/22/2017 10:19:02: :	NLogLogger.GetCalleeString 
+	Textsign: 6|VND|01655055918|20170222095728|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:D34EA118BFA5A547C7FD2458B75AD562027C4A1A05562678F8FE220E682B2E8E
+02/22/2017 10:19:02: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=6&receiver_account=01655055918&reference_number=20170222095728&currency=VND&signature=D34EA118BFA5A547C7FD2458B75AD562027C4A1A05562678F8FE220E682B2E8E&transaction_type=QR
+02/22/2017 10:20:12: :	NLogLogger.GetCalleeString 
+	Textsign: 6|VND|0983666999|20170222101955|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:27E71913D0EB909CDA9B8A24E1A42162E4B8E3E272176A50DEE7DB171D50D34A
+02/22/2017 10:20:12: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=6&receiver_account=0983666999&reference_number=20170222101955&currency=VND&signature=27E71913D0EB909CDA9B8A24E1A42162E4B8E3E272176A50DEE7DB171D50D34A&transaction_type=QR
+02/22/2017 10:22:29: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|01655055918|20170222102221|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:A46D913FEB5558887899E9F10DAD5EEBC0E3824DE5DC72A5219E7DC6E50BD743
+02/22/2017 10:22:29: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=50000&receiver_account=01655055918&reference_number=20170222102221&currency=VND&signature=A46D913FEB5558887899E9F10DAD5EEBC0E3824DE5DC72A5219E7DC6E50BD743&transaction_type=QR
+02/22/2017 10:22:48: :	NLogLogger.GetCalleeString 
+	Textsign: 6|VND|01655055918|20170222102221|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:FB195CD276D62F11092EF23B27E7A321561F660540692CCC7AE20BED19635EE7
+02/22/2017 10:22:48: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=6&receiver_account=01655055918&reference_number=20170222102221&currency=VND&signature=FB195CD276D62F11092EF23B27E7A321561F660540692CCC7AE20BED19635EE7&transaction_type=QR
+02/22/2017 10:48:10: :	NLogLogger.GetCalleeString 
+	Textsign: 5|VND|0983666999|20170222104755|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:402650894B0CF04B3788908BB1B29444ED982C4C651AA8FB0D3301F498F7A632
+02/22/2017 10:48:10: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=5&receiver_account=0983666999&reference_number=20170222104755&currency=VND&signature=402650894B0CF04B3788908BB1B29444ED982C4C651AA8FB0D3301F498F7A632&transaction_type=QR
+02/22/2017 13:34:17: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|01655055918|20170222133403|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:68DB2B1FA530290C1915C745393D0BA5E3B00A3396380E47806F1756DD69C120
+02/22/2017 13:34:17: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=50000&receiver_account=01655055918&reference_number=20170222133403&currency=VND&signature=68DB2B1FA530290C1915C745393D0BA5E3B00A3396380E47806F1756DD69C120&transaction_type=QR
+02/22/2017 14:24:53: :	NLogLogger.GetCalleeString 
+	Textsign: 5|VND|01655055918|20170222142441|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:F40CE77050A941DBA9F370E2B0D27916B908AA0BFC731C1811FD61172F7F1C9F
+02/22/2017 14:24:53: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=5&receiver_account=01655055918&reference_number=20170222142441&currency=VND&signature=F40CE77050A941DBA9F370E2B0D27916B908AA0BFC731C1811FD61172F7F1C9F&transaction_type=QR
+02/22/2017 14:28:29: :	NLogLogger.GetCalleeString 
+	Textsign: 5|VND|01655055918|20170222142441|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:F40CE77050A941DBA9F370E2B0D27916B908AA0BFC731C1811FD61172F7F1C9F
+02/22/2017 14:28:29: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=5&receiver_account=01655055918&reference_number=20170222142441&currency=VND&signature=F40CE77050A941DBA9F370E2B0D27916B908AA0BFC731C1811FD61172F7F1C9F&transaction_type=QR
+02/22/2017 14:28:57: :	NLogLogger.GetCalleeString 
+	Textsign: 5|VND|01655055918|20170222142846|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:ACC9417585D50A348A9ABC66AFEAACA86FF2C165F11C8A286BA477357D2DCD37
+02/22/2017 14:28:57: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=5&receiver_account=01655055918&reference_number=20170222142846&currency=VND&signature=ACC9417585D50A348A9ABC66AFEAACA86FF2C165F11C8A286BA477357D2DCD37&transaction_type=QR
+02/22/2017 14:35:54: :	NLogLogger.GetCalleeString 
+	Textsign: 5|VND|01655055918|20170222143541|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:DE2893FCE962694D943F20939CFC78471C5140F1DCB4E8B783383F6A50EE8BD7
+02/22/2017 14:35:54: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=5&receiver_account=01655055918&reference_number=20170222143541&currency=VND&signature=DE2893FCE962694D943F20939CFC78471C5140F1DCB4E8B783383F6A50EE8BD7&transaction_type=QR
+02/22/2017 15:15:38: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20170222151533|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:311DE25CAA2C5D1E51EC61D019CE554A157AF45054E4C8C385B7422C09CFD8D5
+02/22/2017 15:15:38: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20170222151533&currency=VND&signature=311DE25CAA2C5D1E51EC61D019CE554A157AF45054E4C8C385B7422C09CFD8D5&transaction_type=QR
+02/22/2017 15:44:09: :	NLogLogger.GetCalleeString 
+	Textsign: 30000|VND|0946038429|20170222154330|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:1CEB6AC69EE741A9E53D809BC96714FD849F2FF2E7FD9520CC6AF7AC82A5DE2D
+02/22/2017 15:44:09: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=30000&receiver_account=0946038429&reference_number=20170222154330&currency=VND&signature=1CEB6AC69EE741A9E53D809BC96714FD849F2FF2E7FD9520CC6AF7AC82A5DE2D&transaction_type=QR
+02/22/2017 16:09:53: :	NLogLogger.GetCalleeString 
+	Textsign: 5|VND|01655055918|20170222160459|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:97B4A41742F9DB5AB20408D1DCA79930DD8E0CD6B7FBD0895E969B20D7215C0E
+02/22/2017 16:09:53: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=5&receiver_account=01655055918&reference_number=20170222160459&currency=VND&signature=97B4A41742F9DB5AB20408D1DCA79930DD8E0CD6B7FBD0895E969B20D7215C0E&transaction_type=QR
+02/22/2017 16:20:38: :	NLogLogger.GetCalleeString 
+	Textsign: 5|VND|01655055918|20170222162026|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:96135DBADA3AF199AD4EF9C584DBE01ABC61673185A952CA051F4167216AB018
+02/22/2017 16:20:38: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=5&receiver_account=01655055918&reference_number=20170222162026&currency=VND&signature=96135DBADA3AF199AD4EF9C584DBE01ABC61673185A952CA051F4167216AB018&transaction_type=QR
+02/22/2017 16:50:28: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170222164913|-1|30000|453
+sign: D4C59F0B004C9A39ADDBE22D6697E6A38ED2AAF3B7E02C21FD968E8D9402A7B2
+Vefify: True
+02/22/2017 16:53:42: :	NLogLogger.GetCalleeString 
+	Textsign: 5|VND|01655055918|20170222165323|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:83E8783A0D20A9600CFCD0A59D8061185E65DB015FD2D6696E6FFFF51F012A75
+02/22/2017 16:53:42: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=5&receiver_account=01655055918&reference_number=20170222165323&currency=VND&signature=83E8783A0D20A9600CFCD0A59D8061185E65DB015FD2D6696E6FFFF51F012A75&transaction_type=QR
+02/22/2017 16:57:21: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170222165446|1|20511|453
+sign: 0094C98F5E61E5A57240A8BE8C2A7D0927EC619BA12E23551CD437FEB61A3B6D
+Vefify: True
+02/22/2017 16:59:58: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170222165903|1|20511|453
+sign: C6D937129A7A29409BDD02842D5A3C1A896431A36024F7C72E33B44AC28BFB1F
+Vefify: True
+02/22/2017 17:00:18: :	NLogLogger.GetCalleeString 
+	Textsign: 5|VND|01655055918|20170222170006|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:C7769137A2610761E13EAD7FD688BFC8B1E35391F3796FD9DD8BB879638DC6C5
+02/22/2017 17:00:18: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=5&receiver_account=01655055918&reference_number=20170222170006&currency=VND&signature=C7769137A2610761E13EAD7FD688BFC8B1E35391F3796FD9DD8BB879638DC6C5&transaction_type=QR
+02/22/2017 17:30:52: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170222172903|1|20511|453
+sign: 3C99C7D40836FE6E8D59F838E7496E43C4DC46C9B9E5A5D7245341174F603EC6
+Vefify: True
+02/22/2017 17:34:49: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170222173340|1|20511|453
+sign: C2C2A0EEB5A0A7FEDEE337B76AFEEE8D32BD0AC80BBA4CE5280FAFD6AAC1997C
+Vefify: True
+02/22/2017 17:37:40: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20170222173652|1|20511|453
+sign: 8F4E1BC1484A4C12EC88E8271157CB0D39C1E1653472ABC988DD38DF02BE6E6C
+Vefify: True
+02/22/2017 18:29:21: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 2a1f93c89f244f099f60c4e36c268ec4|404|20511|453
+sign: 529FC6388EE75A4688553292D3A30E78238C7CF461F03830A34EE357E2B00414
+Vefify: True
+02/22/2017 18:32:21: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 27d2a345a9484bb0b3b9960b81adfc85|404|20511|453
+sign: 74F5D9D9F404989DDCD5035AA5A6683DB61311938511716FEA477CEAD156FCFB
+Vefify: True
+02/22/2017 18:32:42: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 32481cb3e87c4adcb5a90e66f58fdf4b|404|20511|453
+sign: 0C7433C457570FB0258751B7C15498CE05B7454571E13F392F4FD0DB3AEB9C3F
+Vefify: True

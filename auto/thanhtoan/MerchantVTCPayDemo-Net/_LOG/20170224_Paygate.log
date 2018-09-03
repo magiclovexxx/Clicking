@@ -1,0 +1,20 @@
+02/24/2017 09:07:38: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20170224090733|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:DD13CBA7838D146C4F05B4055F832AF844EB2527C977DFEACB552163CD8C9F72
+02/24/2017 09:07:38: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20170224090733&currency=VND&signature=DD13CBA7838D146C4F05B4055F832AF844EB2527C977DFEACB552163CD8C9F72&transaction_type=QR
+02/24/2017 10:58:32: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20170224105829|QR|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:EB20AF204CA2CE12A27B83FE29C51E3D3928A187B4C74FEDD93A601696C8FDA5
+02/24/2017 10:58:32: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20170224105829&currency=VND&signature=EB20AF204CA2CE12A27B83FE29C51E3D3928A187B4C74FEDD93A601696C8FDA5&transaction_type=QR
+02/24/2017 10:59:32: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20170224105923|QR|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:EC5B83D3EA8F14F48832FA89AC05BF0EF261BF001E59AE90B14E868A7F0A71D8
+02/24/2017 10:59:32: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox.vtcpay.vn/pay2.0/portalgateway/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20170224105923&currency=VND&signature=EC5B83D3EA8F14F48832FA89AC05BF0EF261BF001E59AE90B14E868A7F0A71D8&transaction_type=QR
+02/24/2017 11:05:04: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20170224110458|QR|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:E5678C8CB05BA0AC1D4E64CE668F5B7B09502EEC50DB737BE6B0105D194FBD2D
+02/24/2017 11:05:04: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox.vtcpay.vn/pay2.0/portalgateway/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20170224110458&currency=VND&signature=E5678C8CB05BA0AC1D4E64CE668F5B7B09502EEC50DB737BE6B0105D194FBD2D&transaction_type=QR
+02/24/2017 13:29:06: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20170224132902|QR|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:A7E7E6FEB722707C1A692A4BC2A289EA44635FCD570E00D7E23599B118F2B7DA
+02/24/2017 13:29:06: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox.vtcpay.vn/pay2.0/portalgateway/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20170224132902&currency=VND&signature=A7E7E6FEB722707C1A692A4BC2A289EA44635FCD570E00D7E23599B118F2B7DA&transaction_type=QR

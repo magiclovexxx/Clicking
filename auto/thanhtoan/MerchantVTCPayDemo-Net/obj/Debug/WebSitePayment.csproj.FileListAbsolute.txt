@@ -1,0 +1,60 @@
+D:\PaygatePortal\Doc\SampleCode\MerchantCSharp\WebSitePayment\obj\Debug\ResolveAssemblyReference.cache
+D:\PaygatePortal\Doc\SampleCode\MerchantCSharp\WebSitePayment\bin\WebSitePayment.dll
+D:\PaygatePortal\Doc\SampleCode\MerchantCSharp\WebSitePayment\bin\WebSitePayment.pdb
+D:\PaygatePortal\Doc\SampleCode\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.dll
+D:\PaygatePortal\Doc\SampleCode\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.pdb
+D:\VAN BAN\Work Document\Paygate 3.0\Code_Website\MerchantCSharp\WebSitePayment\bin\WebSitePayment.dll
+D:\VAN BAN\Work Document\Paygate 3.0\Code_Website\MerchantCSharp\WebSitePayment\bin\WebSitePayment.pdb
+D:\VAN BAN\Work Document\Paygate 3.0\Code_Website\MerchantCSharp\WebSitePayment\obj\Debug\ResolveAssemblyReference.cache
+D:\VAN BAN\Work Document\Paygate 3.0\Code_Website\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.dll
+D:\VAN BAN\Work Document\Paygate 3.0\Code_Website\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.pdb
+C:\Users\HuanKC\Desktop\MerchantCSharp\WebSitePayment\bin\WebSitePayment.dll
+C:\Users\HuanKC\Desktop\MerchantCSharp\WebSitePayment\bin\WebSitePayment.pdb
+C:\Users\HuanKC\Desktop\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.dll
+C:\Users\HuanKC\Desktop\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.pdb
+C:\Users\HuanKC\Desktop\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.csprojResolveAssemblyReference.cache
+E:\DowloadsAll\Code_Website(1)\Code_Website\MerchantCSharp\WebSitePayment\bin\WebSitePayment.dll
+E:\DowloadsAll\Code_Website(1)\Code_Website\MerchantCSharp\WebSitePayment\bin\WebSitePayment.pdb
+E:\DowloadsAll\Code_Website(1)\Code_Website\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.csprojResolveAssemblyReference.cache
+E:\DowloadsAll\Code_Website(1)\Code_Website\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.dll
+E:\DowloadsAll\Code_Website(1)\Code_Website\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.pdb
+C:\Users\HuanKC\Desktop\Code_Website\MerchantCSharp\WebSitePayment\bin\WebSitePayment.dll
+C:\Users\HuanKC\Desktop\Code_Website\MerchantCSharp\WebSitePayment\bin\WebSitePayment.pdb
+C:\Users\HuanKC\Desktop\Code_Website\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.csprojResolveAssemblyReference.cache
+C:\Users\HuanKC\Desktop\Code_Website\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.dll
+C:\Users\HuanKC\Desktop\Code_Website\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.pdb
+C:\Users\HuanKC\Desktop\Code_Website\MerchantCSharp\WebSitePayment\bin\NLog.dll
+C:\Users\HuanKC\Desktop\DemoWebsit\MerchantCSharp\WebSitePayment\bin\WebSitePayment.dll
+C:\Users\HuanKC\Desktop\DemoWebsit\MerchantCSharp\WebSitePayment\bin\WebSitePayment.pdb
+C:\Users\HuanKC\Desktop\DemoWebsit\MerchantCSharp\WebSitePayment\bin\NLog.dll
+C:\Users\HuanKC\Desktop\DemoWebsit\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.csprojResolveAssemblyReference.cache
+C:\Users\HuanKC\Desktop\DemoWebsit\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.dll
+C:\Users\HuanKC\Desktop\DemoWebsit\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.pdb
+C:\Users\huan.khuc\Downloads\Code_Website\Code_Website\MerchantCSharp\WebSitePayment\bin\WebSitePayment.dll.config
+C:\Users\huan.khuc\Downloads\Code_Website\Code_Website\MerchantCSharp\WebSitePayment\bin\WebSitePayment.dll
+C:\Users\huan.khuc\Downloads\Code_Website\Code_Website\MerchantCSharp\WebSitePayment\bin\WebSitePayment.pdb
+C:\Users\huan.khuc\Downloads\Code_Website\Code_Website\MerchantCSharp\WebSitePayment\bin\NLog.dll
+C:\Users\huan.khuc\Downloads\Code_Website\Code_Website\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.csprojResolveAssemblyReference.cache
+C:\Users\huan.khuc\Downloads\Code_Website\Code_Website\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.dll
+C:\Users\huan.khuc\Downloads\Code_Website\Code_Website\MerchantCSharp\WebSitePayment\obj\Debug\WebSitePayment.pdb
+S:\TongHop\CodeTestNhanh\MerchantCongVTCPayV1.5\bin\WebSitePayment.dll.config
+S:\TongHop\CodeTestNhanh\MerchantCongVTCPayV1.5\bin\WebSitePayment.dll
+S:\TongHop\CodeTestNhanh\MerchantCongVTCPayV1.5\bin\WebSitePayment.pdb
+S:\TongHop\CodeTestNhanh\MerchantCongVTCPayV1.5\bin\NLog.dll
+S:\TongHop\CodeTestNhanh\MerchantCongVTCPayV1.5\obj\Debug\WebSitePayment.csprojResolveAssemblyReference.cache
+S:\TongHop\CodeTestNhanh\MerchantCongVTCPayV1.5\obj\Debug\WebSitePayment.dll
+S:\TongHop\CodeTestNhanh\MerchantCongVTCPayV1.5\obj\Debug\WebSitePayment.pdb
+S:\CodeWorking\VTCService\Sample4Merchant\MerchantIntegratedVTCPayDemo\obj\Debug\WebSitePayment.dll
+S:\CodeWorking\VTCService\Sample4Merchant\MerchantIntegratedVTCPayDemo\bin\WebSitePayment.dll.config
+S:\CodeWorking\VTCService\Sample4Merchant\MerchantIntegratedVTCPayDemo\bin\WebSitePayment.dll
+S:\CodeWorking\VTCService\Sample4Merchant\MerchantIntegratedVTCPayDemo\bin\WebSitePayment.pdb
+S:\CodeWorking\VTCService\Sample4Merchant\MerchantIntegratedVTCPayDemo\bin\NLog.dll
+S:\CodeWorking\VTCService\Sample4Merchant\MerchantIntegratedVTCPayDemo\obj\Debug\WebSitePayment.pdb
+S:\CodeWorking\VTCService\Sample4Merchant\MerchantIntegratedVTCPayDemo\obj\Debug\WebSitePayment.csprojResolveAssemblyReference.cache
+S:\TaiLieuVTC\SourceCode_Integrated_VTCPay2\Code_Website\MerchantVTCPayDemo-Net\bin\WebSitePayment.dll.config
+S:\TaiLieuVTC\SourceCode_Integrated_VTCPay2\Code_Website\MerchantVTCPayDemo-Net\bin\WebSitePayment.dll
+S:\TaiLieuVTC\SourceCode_Integrated_VTCPay2\Code_Website\MerchantVTCPayDemo-Net\bin\WebSitePayment.pdb
+S:\TaiLieuVTC\SourceCode_Integrated_VTCPay2\Code_Website\MerchantVTCPayDemo-Net\bin\NLog.dll
+S:\TaiLieuVTC\SourceCode_Integrated_VTCPay2\Code_Website\MerchantVTCPayDemo-Net\obj\Debug\WebSitePayment.csprojResolveAssemblyReference.cache
+S:\TaiLieuVTC\SourceCode_Integrated_VTCPay2\Code_Website\MerchantVTCPayDemo-Net\obj\Debug\WebSitePayment.dll
+S:\TaiLieuVTC\SourceCode_Integrated_VTCPay2\Code_Website\MerchantVTCPayDemo-Net\obj\Debug\WebSitePayment.pdb

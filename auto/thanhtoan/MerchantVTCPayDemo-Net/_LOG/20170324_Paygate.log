@@ -1,0 +1,7 @@
+03/24/2017 16:46:12: :	NLogLogger.GetCalleeString 
+	Textsign: 20000|VND|01679253036|20170324164600|QR|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:3E581E40A16142E8C76D4CBB455BF62BE15FECCA5F9E5EBC5B8966B9090BAB0A
+03/24/2017 16:46:12: :	NLogLogger.GetCalleeString 
+	
+------------Start----------------
+03/24/2017 16:46:12: :	NLogLogger.GetCalleeString 
+	urlFull: http://alpha1.vtcpay.vn/portalgateway/checkout.html?website_id=453&amount=20000&receiver_account=01679253036&reference_number=20170324164600&currency=VND&signature=3E581E40A16142E8C76D4CBB455BF62BE15FECCA5F9E5EBC5B8966B9090BAB0A&transaction_type=QR

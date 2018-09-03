@@ -1,0 +1,4 @@
+12/14/2016 16:01:28: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20161214160124|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:EB0B4CEFD03F794B6BC0BE69A626260859D4DEDE9AE9306CF659D592A9D65C51
+12/14/2016 16:01:28: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox.vtcpay.vn/pay2.0/portalgateway/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20161214160124&currency=VND&signature=EB0B4CEFD03F794B6BC0BE69A626260859D4DEDE9AE9306CF659D592A9D65C51

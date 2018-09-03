@@ -1,0 +1,15 @@
+11/22/2017 11:01:15: :	NLogLogger.GetCalleeString 
+	Textsign:50000|23 L?c Trung|Hà N?i|huan.khuc@vtc.vn|Huân|0986699480|Khúc Chí|VND|vi||0963465816|20171122110106|sale||5023|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123
+signature:D42AD22E7A07ADD74B31A9E525D2BC9749B5D0E702361AB9F092BD17A5BB374B
+11/22/2017 11:01:15: :	NLogLogger.GetCalleeString 
+	urlFull: http://alpha1.vtcpay.vn/portalgateway/checkout.html?amount=50000&bill_to_address=23 L?c Trung&bill_to_address_city=H&#224; N?i&bill_to_email=huan.khuc@vtc.vn&bill_to_forename=Hu&#226;n&bill_to_phone=0986699480&bill_to_surname=Kh&#250;c Ch&#237;&currency=VND&language=vi&payment_type=&receiver_account=0963465816&reference_number=20171122110106&transaction_type=sale&url_return=&website_id=5023&signature=D42AD22E7A07ADD74B31A9E525D2BC9749B5D0E702361AB9F092BD17A5BB374B
+11/22/2017 11:03:36: :	NLogLogger.GetCalleeString 
+	Textsign:50000|23 L?c Trung|Hà N?i|huan.khuc@vtc.vn|Huân|0986699480|Khúc Chí|VND|vi||0963465816|20171122110320|sale||5023|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123
+signature:83506210B49BE13690FAF489564E5B4321ABFEAA66C2F8B714576B506720C78C
+11/22/2017 11:03:36: :	NLogLogger.GetCalleeString 
+	urlFull: http://alpha1.vtcpay.vn/portalgateway/checkout.html?amount=50000&bill_to_address=23 L?c Trung&bill_to_address_city=H&#224; N?i&bill_to_email=huan.khuc@vtc.vn&bill_to_forename=Hu&#226;n&bill_to_phone=0986699480&bill_to_surname=Kh&#250;c Ch&#237;&currency=VND&language=vi&payment_type=&receiver_account=0963465816&reference_number=20171122110320&transaction_type=sale&url_return=&website_id=5023&signature=83506210B49BE13690FAF489564E5B4321ABFEAA66C2F8B714576B506720C78C
+11/22/2017 11:06:32: :	NLogLogger.GetCalleeString 
+	Textsign:50000|23 L?c Trung|Hà N?i|huan.khuc@vtc.vn|Huân|0986699480|Khúc Chí|VND|vi||0963465816|20171122110626|sale||5023|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123
+signature:8E08DA7A060504D2EE225E936C461E1054F54FCE251FE8CFADFCDB560E71B301
+11/22/2017 11:06:32: :	NLogLogger.GetCalleeString 
+	urlFull: http://alpha1.vtcpay.vn/portalgateway/checkout.html?amount=50000&bill_to_address=23+L%e1%ba%a1c+Trung&bill_to_address_city=H%c3%a0+N%e1%bb%99i&bill_to_email=huan.khuc@vtc.vn&bill_to_forename=Hu%c3%a2n&bill_to_phone=0986699480&bill_to_surname=Kh%c3%bac+Ch%c3%ad&currency=VND&language=vi&payment_type=&receiver_account=0963465816&reference_number=20171122110626&transaction_type=sale&url_return=&website_id=5023&signature=8E08DA7A060504D2EE225E936C461E1054F54FCE251FE8CFADFCDB560E71B301

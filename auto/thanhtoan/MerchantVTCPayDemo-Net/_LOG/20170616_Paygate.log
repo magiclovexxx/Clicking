@@ -1,0 +1,11 @@
+06/16/2017 13:36:01: :	NLogLogger.GetCalleeString 
+	Ket qua GET:http://localhost:1832/Done.aspx?amount=10000&message=&payment_type=&reference_number=20170616132706&status=-9&trans_ref_no=12825&website_id=627&signature=FBB8660482AE9CA51B18B534386A9DE36C1EE4B62D0593F4E53A634774139024
+06/16/2017 13:36:02: :	NLogLogger.GetCalleeString 
+	------------End----------------
+06/16/2017 13:39:33: :	NLogLogger.GetCalleeString 
+	HTTP GET.Sai chu ky. Text:10000|||-9|12825|20170616132706|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123
+Sign:0489C07605784FB2AA7C83D1B4A05BD043DD2C9FB206120DF3C114BE66C52C0A
+06/16/2017 13:40:32: :	NLogLogger.GetCalleeString 
+	Ket qua GET:http://localhost:1832/Done.aspx?amount=10000&message=&payment_type=&reference_number=20170616132706&status=-9&trans_ref_no=12825&website_id=627&signature=FBB8660482AE9CA51B18B534386A9DE36C1EE4B62D0593F4E53A634774139024
+06/16/2017 13:40:32: :	NLogLogger.GetCalleeString 
+	------------End----------------

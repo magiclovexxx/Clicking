@@ -1,0 +1,34 @@
+09/27/2017 09:16:51: :	NLogLogger.GetCalleeString 
+	Textsign:50000|23 L?c Trung|H&#224; N?i|huan.khuc@vtc.vn|Hu&#226;n|0986699480|Kh&#250;c Ch&#237;|VND|vi||0963465816|20170927091557|sale||5023|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123
+signature:95B2B8777DCB201BC3EC0ED4BE96783461254537318221E58B5F0C02BC33C114
+09/27/2017 09:16:51: :	NLogLogger.GetCalleeString 
+	urlFull: http://alpha1.vtcpay.vn/portalgateway/checkout.html?amount=50000&bill_to_address=23 L?c Trung&bill_to_address_city=H&#224; N?i&bill_to_email=huan.khuc@vtc.vn&bill_to_forename=Hu&#226;n&bill_to_phone=0986699480&bill_to_surname=Kh&#250;c Ch&#237;&currency=VND&language=vi&payment_type=&receiver_account=0963465816&reference_number=20170927091557&transaction_type=sale&url_return=&website_id=5023&signature=95B2B8777DCB201BC3EC0ED4BE96783461254537318221E58B5F0C02BC33C114
+09/27/2017 09:18:03: :	NLogLogger.GetCalleeString 
+	Textsign:50000|23+L%e1%ba%a1c+Trung|H%c3%a0+N%e1%bb%99i|huan.khuc@vtc.vn|Hu%c3%a2n|0986699480|Kh%c3%bac+Ch%c3%ad|VND|vi||0963465816|20170927091731|sale||5023|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123
+signature:7021015EA40BCBE150B375F08EA6B28F1F2AE385F221433F6C55DB2B2503B182
+09/27/2017 09:18:03: :	NLogLogger.GetCalleeString 
+	urlFull: http://alpha1.vtcpay.vn/portalgateway/checkout.html?amount=50000&bill_to_address=23+L%e1%ba%a1c+Trung&bill_to_address_city=H%c3%a0+N%e1%bb%99i&bill_to_email=huan.khuc@vtc.vn&bill_to_forename=Hu%c3%a2n&bill_to_phone=0986699480&bill_to_surname=Kh%c3%bac+Ch%c3%ad&currency=VND&language=vi&payment_type=&receiver_account=0963465816&reference_number=20170927091731&transaction_type=sale&url_return=&website_id=5023&signature=7021015EA40BCBE150B375F08EA6B28F1F2AE385F221433F6C55DB2B2503B182
+09/27/2017 09:21:15: :	NLogLogger.GetCalleeString 
+	Textsign:50000|23+L%e1%ba%a1c+Trung|H%c3%a0+N%e1%bb%99i|huan.khuc@vtc.vn|Hu%c3%a2n|0986699480|Kh%c3%bac+Ch%c3%ad|VND|vi||0963465816|20170927091953|sale||5023|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123
+signature:4445F2F1F9FB9C1753452A714AD9CEAF7D18D51ECD8D737D6C88F3C19C501675
+09/27/2017 09:21:15: :	NLogLogger.GetCalleeString 
+	urlFull: http://alpha1.vtcpay.vn/portalgateway/checkout.html?amount=50000&bill_to_address=23+L%e1%ba%a1c+Trung&bill_to_address_city=H%c3%a0+N%e1%bb%99i&bill_to_email=huan.khuc@vtc.vn&bill_to_forename=Hu%c3%a2n&bill_to_phone=0986699480&bill_to_surname=Kh%c3%bac+Ch%c3%ad&currency=VND&language=vi&payment_type=&receiver_account=0963465816&reference_number=20170927091953&transaction_type=sale&url_return=&website_id=5023&signature=4445F2F1F9FB9C1753452A714AD9CEAF7D18D51ECD8D737D6C88F3C19C501675
+09/27/2017 09:22:46: :	NLogLogger.GetCalleeString 
+	Textsign:50000|23+L%e1%ba%a1c+Trung|H%c3%a0+N%e1%bb%99i||Hu%c3%a2n|0986699480|Kh%c3%bac+Ch%c3%ad|VND|vi||0963465816|20170927092128|sale||5023|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123
+signature:F9C48EC0615E498874373F3778CDC260C68CE237C9B768160D3682177FFFF92C
+09/27/2017 09:22:46: :	NLogLogger.GetCalleeString 
+	urlFull: http://alpha1.vtcpay.vn/portalgateway/checkout.html?amount=50000&bill_to_address=23+L%e1%ba%a1c+Trung&bill_to_address_city=H%c3%a0+N%e1%bb%99i&bill_to_email=&bill_to_forename=Hu%c3%a2n&bill_to_phone=0986699480&bill_to_surname=Kh%c3%bac+Ch%c3%ad&currency=VND&language=vi&payment_type=&receiver_account=0963465816&reference_number=20170927092128&transaction_type=sale&url_return=&website_id=5023&signature=F9C48EC0615E498874373F3778CDC260C68CE237C9B768160D3682177FFFF92C
+09/27/2017 09:29:58: :	NLogLogger.GetCalleeString 
+	Textsign:50000|23 L?c Trung|Hà N?i|huan.khuc@vtc.vn|Huân|0986699480|Khúc Chí|VND|vi||0963465816|20170927092858|sale|http://gonnapass.com/payment-results-update-db/?products_id=1&products_type=2&product_info=2|5023|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123
+signature:A6CB399A7AB9FD9A73488ED42F13E20D3A9C88AAA30D6D3525DC0A1AB76F3388
+09/27/2017 09:29:58: :	NLogLogger.GetCalleeString 
+	urlFull: http://alpha1.vtcpay.vn/portalgateway/checkout.html?amount=50000&bill_to_address=23 L?c Trung&bill_to_address_city=H&#224; N?i&bill_to_email=huan.khuc@vtc.vn&bill_to_forename=Hu&#226;n&bill_to_phone=0986699480&bill_to_surname=Kh&#250;c Ch&#237;&currency=VND&language=vi&payment_type=&receiver_account=0963465816&reference_number=20170927092858&transaction_type=sale&url_return=http://gonnapass.com/payment-results-update-db/?products_id=1&amp;products_type=2&amp;product_info=2&website_id=5023&signature=A6CB399A7AB9FD9A73488ED42F13E20D3A9C88AAA30D6D3525DC0A1AB76F3388
+09/27/2017 09:30:56: :	NLogLogger.GetCalleeString 
+	Textsign:50000|23 L?c Trung|Hà N?i|huan.khuc@vtc.vn|Huân|0986699480|Khúc Chí|VND|vi||0963465816|20170927093021|sale|http://gonnapass.com/payment-results-update-db/?products_id=1&products_type=2&product_info=2|5023|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123
+signature:D86275397784748EFB08A03211B30890EDA8B8E7D0FA8EED849F31C464029388
+09/27/2017 09:30:56: :	NLogLogger.GetCalleeString 
+	urlFull: http://alpha1.vtcpay.vn/portalgateway/checkout.html?amount=50000&bill_to_address=23 L?c Trung&bill_to_address_city=H%c3%a0+N%e1%bb%99i&bill_to_email=huan.khuc@vtc.vn&bill_to_forename=Hu%c3%a2n&bill_to_phone=0986699480&bill_to_surname=Kh%c3%bac+Ch%c3%ad&currency=VND&language=vi&payment_type=&receiver_account=0963465816&reference_number=20170927093021&transaction_type=sale&url_return=http%3a%2f%2fgonnapass.com%2fpayment-results-update-db%2f%3fproducts_id%3d1%26products_type%3d2%26product_info%3d2&website_id=5023&signature=D86275397784748EFB08A03211B30890EDA8B8E7D0FA8EED849F31C464029388
+09/27/2017 15:45:19: :	NLogLogger.GetCalleeString 
+	Textsign: 10000|VND|0983666999|20170927154507|sale|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123|signature: A5E850C780B37BC9CCE2A89FD0F6942F65FA5D277494DF1335FE371F42807223
+09/27/2017 15:45:19: :	NLogLogger.GetCalleeString 
+	url request full: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=10000&receiver_account=0983666999&reference_number=20170927154507&currency=VND&signature=A5E850C780B37BC9CCE2A89FD0F6942F65FA5D277494DF1335FE371F42807223&transaction_type=sale

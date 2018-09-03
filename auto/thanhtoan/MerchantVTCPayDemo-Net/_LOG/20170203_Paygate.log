@@ -1,0 +1,4 @@
+02/03/2017 16:22:36: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20170203162233|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:5863C827AEE8C44F53876041C4797980404B077AD0C7F9F3850946EFFB01D90D
+02/03/2017 16:22:36: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20170203162233&currency=VND&signature=5863C827AEE8C44F53876041C4797980404B077AD0C7F9F3850946EFFB01D90D

@@ -1,0 +1,4 @@
+02/08/2017 09:05:58: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20170208090545|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:8CA05250C44F80F91DE10A8CED6FAC8C94AFE32FC1A7B3636F98259AB1358464
+02/08/2017 09:05:58: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20170208090545&currency=VND&signature=8CA05250C44F80F91DE10A8CED6FAC8C94AFE32FC1A7B3636F98259AB1358464

@@ -1,0 +1,27 @@
+09/07/2016 10:12:55: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160907101252|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:F26B5729C4BC659490DC1C5B3805B505BBD510F587740373AE4FF7D9C948F0BA
+09/07/2016 10:12:55: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20160907101252&currency=VND&signature=F26B5729C4BC659490DC1C5B3805B505BBD510F587740373AE4FF7D9C948F0BA
+09/07/2016 10:17:18: :	NLogLogger.GetCalleeString 
+	Textsign:50000|23 L?c Trung|Hà N?i|huan.khuc@vtc.vn|Huân|0986699480|Khúc Chí|VND|vi||0983666999|20160907101242|sale||453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123
+signature:9ED9581534B34B7502CD2C6AD87490CD127C17FFDA75DB1F22363436056C1BDA
+09/07/2016 10:17:18: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?amount=50000&bill_to_address=23 L?c Trung&bill_to_address_city=Hà N?i&bill_to_email=huan.khuc@vtc.vn&bill_to_forename=Huân&bill_to_phone=0986699480&bill_to_surname=Khúc Chí&currency=VND&language=vi&payment_type=&receiver_account=0983666999&reference_number=20160907101242&transaction_type=sale&url_return=&website_id=453&signature=9ED9581534B34B7502CD2C6AD87490CD127C17FFDA75DB1F22363436056C1BDA
+09/07/2016 10:32:07: :	NLogLogger.GetCalleeString 
+	Textsign:50000|23 L?c Trung|Hà N?i|huan.khuc@vtc.vn|Huân|0986699480|Khúc Chí|VND|vi||0983666999|20160907103201|sale||453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123
+signature:FAE7F698BEE401E52B24E4B11C5F8D66434DA31A756E598AB2E2BEA83EBD7EFE
+09/07/2016 10:32:07: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?amount=50000&bill_to_address=23 L?c Trung&bill_to_address_city=Hà N?i&bill_to_email=huan.khuc@vtc.vn&bill_to_forename=Huân&bill_to_phone=0986699480&bill_to_surname=Khúc Chí&currency=VND&language=vi&payment_type=&receiver_account=0983666999&reference_number=20160907103201&transaction_type=sale&url_return=&website_id=453&signature=FAE7F698BEE401E52B24E4B11C5F8D66434DA31A756E598AB2E2BEA83EBD7EFE
+09/07/2016 10:32:15: :	NLogLogger.GetCalleeString 
+	Textsign:50000|23 L?c Trung|Hà N?i|huan.khuc@vtc.vn|Huân|0986699480|Khúc Chí|VND|vi||0983666999|20160907103157|sale||453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123
+signature:B1B69292FABE40638EC4E7CD183882449357AABB9F7B8DC4A7E095861D0F02A9
+09/07/2016 10:32:15: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?amount=50000&bill_to_address=23 L?c Trung&bill_to_address_city=Hà N?i&bill_to_email=huan.khuc@vtc.vn&bill_to_forename=Huân&bill_to_phone=0986699480&bill_to_surname=Khúc Chí&currency=VND&language=vi&payment_type=&receiver_account=0983666999&reference_number=20160907103157&transaction_type=sale&url_return=&website_id=453&signature=B1B69292FABE40638EC4E7CD183882449357AABB9F7B8DC4A7E095861D0F02A9
+09/07/2016 13:38:30: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160907133828|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:38B2EF2C916DCA0F0CD0F275FB7FD222700C34B512FA23B208F69CD9ECA4DFC8
+09/07/2016 13:38:30: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20160907133828&currency=VND&signature=38B2EF2C916DCA0F0CD0F275FB7FD222700C34B512FA23B208F69CD9ECA4DFC8
+09/07/2016 16:13:14: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20160907161312|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:2AAB2AB679D1CF481F13A50D3E02845A596351854BE092AD88F0882F45C12E8B
+09/07/2016 16:13:14: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20160907161312&currency=VND&signature=2AAB2AB679D1CF481F13A50D3E02845A596351854BE092AD88F0882F45C12E8B

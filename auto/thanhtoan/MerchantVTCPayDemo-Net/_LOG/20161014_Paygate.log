@@ -1,0 +1,56 @@
+10/14/2016 09:20:49: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20161014092046|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:7E9F861E145DF4D40A661380DAA8B316D5C10483E9333EABB499DEE369C44DC1
+10/14/2016 09:20:49: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20161014092046&currency=VND&signature=7E9F861E145DF4D40A661380DAA8B316D5C10483E9333EABB499DEE369C44DC1
+10/14/2016 09:24:23: :	NLogLogger.GetCalleeString 
+	IP request tu server:117.103.192.6
+10/14/2016 09:24:23: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20161014092419|404|30000|453
+sign: AB9B0A0EAF6485200784A9E47D310462B2E1FE4FA337629C9254C00F43946E1E
+Vefify: True
+10/14/2016 09:26:08: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20161014092603|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:FF19810E80365E45141E2702FDC799E4188E7182ADCB02402C383D3E5E90AFE5
+10/14/2016 09:26:08: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20161014092603&currency=VND&signature=FF19810E80365E45141E2702FDC799E4188E7182ADCB02402C383D3E5E90AFE5
+10/14/2016 09:28:24: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20161014092823|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:56D7FD7A168F50BD667AF7C9F94877BB459FAB86604C82D9FAD94F9C4FAB7987
+10/14/2016 09:28:24: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20161014092823&currency=VND&signature=56D7FD7A168F50BD667AF7C9F94877BB459FAB86604C82D9FAD94F9C4FAB7987
+10/14/2016 09:42:59: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20161014094256|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:1D3D1788F12144685F214E7AA582804D2A87776ED3381462C24809BBA19A7174
+10/14/2016 09:42:59: :	NLogLogger.GetCalleeString 
+	urlFull: http://beta.pay.vtc.vn/cong-thanh-toan/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20161014094256&currency=VND&signature=1D3D1788F12144685F214E7AA582804D2A87776ED3381462C24809BBA19A7174
+10/14/2016 09:43:26: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20161014094318|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:5C330EED63E56F0EBCC61C27D6B24EFD2EA6FBC5F062572B242AF87B92A32C98
+10/14/2016 09:43:26: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20161014094318&currency=VND&signature=5C330EED63E56F0EBCC61C27D6B24EFD2EA6FBC5F062572B242AF87B92A32C98
+10/14/2016 10:06:11: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20161014100607|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:2E506B99115971D0673117CCD117B95D1BA5BB12BA24D6C4CB3E8B5629437261
+10/14/2016 10:06:11: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20161014100607&currency=VND&signature=2E506B99115971D0673117CCD117B95D1BA5BB12BA24D6C4CB3E8B5629437261
+10/14/2016 10:07:11: :	NLogLogger.GetCalleeString 
+	IP request tu server:117.103.192.46
+10/14/2016 10:07:11: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 50000|||20161014100607|-1|1902457|453
+sign: 
+Vefify: False
+10/14/2016 14:53:48: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20161014145344|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:74C4D4F3C55F03075F82B27A15E1EFB4FFA84998A878489770D80691E31D5A5E
+10/14/2016 14:53:48: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20161014145344&currency=VND&signature=74C4D4F3C55F03075F82B27A15E1EFB4FFA84998A878489770D80691E31D5A5E
+10/14/2016 16:48:53: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20161014164851|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:51DA76CBCDD4B5B695AD95F428263CC0A89EF673B8CDEDE46E7B471297731CCC
+10/14/2016 16:48:53: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20161014164851&currency=VND&signature=51DA76CBCDD4B5B695AD95F428263CC0A89EF673B8CDEDE46E7B471297731CCC
+10/14/2016 16:55:58: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20161014165556|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:B8F7F5086CCF79A13BB973C257E27081D000A9A762CA90584FC3CD804455BBCE
+10/14/2016 16:55:58: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20161014165556&currency=VND&signature=B8F7F5086CCF79A13BB973C257E27081D000A9A762CA90584FC3CD804455BBCE
+10/14/2016 16:58:18: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20161014165813|627|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:328B23601F5D96DC45D21D8CAD3A1AEBA35BB95B49557C77FCBAF9D44974B3B7
+10/14/2016 16:58:18: :	NLogLogger.GetCalleeString 
+	urlFull: https://pay.vtc.vn/bank-gateway/checkout.html?website_id=627&amount=50000&receiver_account=0983666999&reference_number=20161014165813&currency=VND&signature=328B23601F5D96DC45D21D8CAD3A1AEBA35BB95B49557C77FCBAF9D44974B3B7
+10/14/2016 17:02:10: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20161014170209|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:86C0E38BD1E6D81E828765F87B684637C56C0AC8D4770E7154EB0F1BE54B6105
+10/14/2016 17:02:10: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20161014170209&currency=VND&signature=86C0E38BD1E6D81E828765F87B684637C56C0AC8D4770E7154EB0F1BE54B6105

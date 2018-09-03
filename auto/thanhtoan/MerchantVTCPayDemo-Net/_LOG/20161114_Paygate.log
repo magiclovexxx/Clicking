@@ -1,0 +1,12 @@
+11/14/2016 10:13:43: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20161114101225|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:BF76A7F31745B785A4D06F969A03637043D4E181DD5EA6B11605E092C4F7F16B
+11/14/2016 10:13:43: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox.vtcpay.vn/pay2.0/portalgateway/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20161114101225&currency=VND&signature=BF76A7F31745B785A4D06F969A03637043D4E181DD5EA6B11605E092C4F7F16B
+11/14/2016 10:14:05: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0904646496|20161114101354|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:AC740F74941C5912B813B0E588D3CE5A87D0B86F4452D9E294DF8E238911BA50
+11/14/2016 10:14:05: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox.vtcpay.vn/pay2.0/portalgateway/checkout.html?website_id=453&amount=50000&receiver_account=0904646496&reference_number=20161114101354&currency=VND&signature=AC740F74941C5912B813B0E588D3CE5A87D0B86F4452D9E294DF8E238911BA50
+11/14/2016 10:15:23: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 50000|Giao d?ch thành công||20161114101354|1|1|453
+sign: 1FEA28E885CED02329233B007AB27232ECA2AC84A4D7F38C71555821F0B45457
+Vefify: False

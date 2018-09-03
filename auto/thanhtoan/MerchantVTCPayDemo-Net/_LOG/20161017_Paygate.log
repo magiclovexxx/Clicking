@@ -1,0 +1,102 @@
+10/17/2016 15:43:40: :	NLogLogger.GetCalleeString 
+	IP request tu server:117.103.192.46
+10/17/2016 15:43:40: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 30000|||20161017154047|-1|1902522|453
+sign: 
+Vefify: False
+10/17/2016 15:47:16: :	NLogLogger.GetCalleeString 
+	IP request tu server:117.103.192.46
+10/17/2016 15:47:16: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20161017154700|-1|30000|453
+sign: 
+Vefify: False
+10/17/2016 16:20:45: :	NLogLogger.GetCalleeString 
+	IP request tu server:117.103.192.46
+10/17/2016 16:20:45: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20161017161953|1|30000|453
+sign: 
+Vefify: False
+10/17/2016 16:21:48: :	NLogLogger.GetCalleeString 
+	IP request tu server:117.103.192.46
+10/17/2016 16:21:48: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20161017162122|1|30000|453
+sign: 
+Vefify: False
+10/17/2016 16:22:27: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20161017162224|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:3E6B344EE560DDE846304E77B06CB4A9B82FEA1E605C35048A7A826D8302E690
+10/17/2016 16:22:27: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20161017162224&currency=VND&signature=3E6B344EE560DDE846304E77B06CB4A9B82FEA1E605C35048A7A826D8302E690
+10/17/2016 16:22:50: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20161017162244|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:ADBFB789FE38BF1F13EAD779CD0E87D48869E49F85BFD5A24C00B2D580F1F82C
+10/17/2016 16:22:50: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20161017162244&currency=VND&signature=ADBFB789FE38BF1F13EAD779CD0E87D48869E49F85BFD5A24C00B2D580F1F82C
+10/17/2016 16:26:40: :	NLogLogger.GetCalleeString 
+	IP request tu server:117.103.192.46
+10/17/2016 16:26:40: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20161017162620|1|30000|453
+sign: 
+Vefify: False
+10/17/2016 16:28:24: :	NLogLogger.GetCalleeString 
+	IP request tu server:117.103.192.46
+10/17/2016 16:28:24: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20161017162807|1|30000|453
+sign: 
+Vefify: False
+10/17/2016 16:29:42: :	NLogLogger.GetCalleeString 
+	IP request tu server:117.103.192.46
+10/17/2016 16:29:42: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20161017162831|1|30000|453
+sign: 
+Vefify: False
+10/17/2016 16:30:25: :	NLogLogger.GetCalleeString 
+	IP request tu server:117.103.192.46
+10/17/2016 16:30:25: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20161017162915|1|30000|453
+sign: 
+Vefify: False
+10/17/2016 16:30:44: :	NLogLogger.GetCalleeString 
+	IP request tu server:117.103.192.46
+10/17/2016 16:30:44: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20161017163010|1|30000|453
+sign: 
+Vefify: False
+10/17/2016 16:31:53: :	NLogLogger.GetCalleeString 
+	IP request tu server:117.103.192.46
+10/17/2016 16:31:53: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20161017163118|1|30000|453
+sign: 
+Vefify: False
+10/17/2016 16:33:51: :	NLogLogger.GetCalleeString 
+	IP request tu server:117.103.192.46
+10/17/2016 16:33:51: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20161017163307|1|30000|453
+sign: 
+Vefify: False
+10/17/2016 16:59:41: :	NLogLogger.GetCalleeString 
+	IP request tu server:117.103.192.46
+10/17/2016 16:59:41: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20161017165701|1|30000|453
+sign: 
+Vefify: False
+10/17/2016 17:01:09: :	NLogLogger.GetCalleeString 
+	IP request tu server:117.103.192.46
+10/17/2016 17:01:09: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20161017170035|1|30000|453
+sign: 
+Vefify: False
+10/17/2016 17:03:13: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|VND|0983666999|20161017170311|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:623E0B14EB5D5A4DDA16317D5C9F91EC92C081C2FE9C06BF40840AE2B4FF9A63
+10/17/2016 17:03:13: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20161017170311&currency=VND&signature=623E0B14EB5D5A4DDA16317D5C9F91EC92C081C2FE9C06BF40840AE2B4FF9A63
+10/17/2016 17:05:41: :	NLogLogger.GetCalleeString 
+	IP request tu server:117.103.192.46
+10/17/2016 17:05:41: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20161017170426|7|660000|453
+sign: 
+Vefify: False
+10/17/2016 17:06:45: :	NLogLogger.GetCalleeString 
+	IP request tu server:117.103.192.46
+10/17/2016 17:06:45: :	NLogLogger.GetCalleeString 
+	Ket qua POST. Data: 20161017170622|1|2|453
+sign: 
+Vefify: False

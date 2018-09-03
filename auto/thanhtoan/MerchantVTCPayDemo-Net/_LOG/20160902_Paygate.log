@@ -1,0 +1,20 @@
+09/02/2016 05:19:00: :	NLogLogger.GetCalleeString 
+	Textsign: 50000|USD|0983666999|20160902051853|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:51D4B3B81843F69E86D7508AA6636CA8ABA36707CCDD4E01843100CC62088B85
+09/02/2016 05:19:00: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=50000&receiver_account=0983666999&reference_number=20160902051853&currency=USD&signature=51D4B3B81843F69E86D7508AA6636CA8ABA36707CCDD4E01843100CC62088B85
+09/02/2016 05:20:42: :	NLogLogger.GetCalleeString 
+	Textsign: 10|USD|0983666999|20160902052022|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:EFF6D20A2F3ECFF6BD9AAAD29EECEE638C50BD7E8B3E76ACEE3C56421CE9D008
+09/02/2016 05:20:42: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=10&receiver_account=0983666999&reference_number=20160902052022&currency=USD&signature=EFF6D20A2F3ECFF6BD9AAAD29EECEE638C50BD7E8B3E76ACEE3C56421CE9D008
+09/02/2016 05:24:42: :	NLogLogger.GetCalleeString 
+	Textsign: 3.24|USD|0983666999|20160902052431|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:487B282A09B82F8E7D8FD8CB448F3FB0791C863B1016019BD2FC7EE8DFAAB897
+09/02/2016 05:24:42: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=3.24&receiver_account=0983666999&reference_number=20160902052431&currency=USD&signature=487B282A09B82F8E7D8FD8CB448F3FB0791C863B1016019BD2FC7EE8DFAAB897
+09/02/2016 06:02:08: :	NLogLogger.GetCalleeString 
+	Textsign: 3.134|USD|0983666999|20160902060151|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:7789BB2CDA122446894C81448AF88B861AD9034983187C7B00D5262D9DD209FE
+09/02/2016 06:02:08: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=3.134&receiver_account=0983666999&reference_number=20160902060151&currency=USD&signature=7789BB2CDA122446894C81448AF88B861AD9034983187C7B00D5262D9DD209FE
+09/02/2016 06:06:12: :	NLogLogger.GetCalleeString 
+	Textsign: 3.45|USD|0983666999|20160902060602|453|aaaaaaaaaaaaaaaabbbbbbbbbCCCCC123,signature:D5BAA8CA3928F19F7643A2754A1E2AE5F8C2B626F1FAC8E37EACF2CF21C2FEE5
+09/02/2016 06:06:12: :	NLogLogger.GetCalleeString 
+	urlFull: http://sandbox1.vtcebank.vn/payportalv2/checkout.html?website_id=453&amount=3.45&receiver_account=0983666999&reference_number=20160902060602&currency=USD&signature=D5BAA8CA3928F19F7643A2754A1E2AE5F8C2B626F1FAC8E37EACF2CF21C2FEE5
