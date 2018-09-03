@@ -34,15 +34,16 @@
                                     <input type="checkbox" id="md_checkbox_211" class="filled-in chk-col-red checkAll">
                                     <label class="p0 m0" for="md_checkbox_211">&nbsp;</label>
                                 </th>
-                                <th><?=l('ID')?></th> 
-                                <th><?=l('Type')?></th> 
-                                <th><?=l('Fullname')?></th>
+                                <th><?=l('Admin')?></th> 
+                                
+                                <th><?=l('Tên')?></th>
                                 <th><?=l('Email')?></th>
                                 <th><?=l('Accounts')?></th>
-                                <th><?=l('Expiration date')?></th>
-                                <th><?=l('Timezone')?></th>
-                                <th><?=l('Status')?></th>
-                                <th><?=l('Expiration')?></th>
+                                <th><?=l('Hết hạn')?></th>
+                                <th><?=l('Người giới thiệu')?></th>
+                                <th><?=l('Hoa hồng')?></th>
+                                <th><?=l('Đã giới thiệu')?></th> 
+                                <th><?=l('Bắt đầu')?></th>
                                 <th><?=l('Created')?></th>
                                 <th><?=l('Option')?></th>
                             </tr>
@@ -51,21 +52,23 @@
                             <?php 
                             if(!empty($result)){
                             foreach ($result as $key => $row) {
+                                $affiliate = json_decode($row->affiliate);
                             ?>
                             <tr class="pending" data-action="<?=cn('ajax_action_item')?>" data-id="<?=$row->id?>">
                                 <td>
-                                    <input type="checkbox" name="id[]" id="md_checkbox_<?=$key?>" class="filled-in chk-col-red checkItem" value="<?=$row->fid?>">
+                                    <input type="checkbox" name="id[]" id="md_checkbox_<?=$key?>" class="filled-in chk-col-red checkItem" value="<?=$row->id?>">
                                     <label class="p0 m0" for="md_checkbox_<?=$key?>">&nbsp;</label>
                                 </td>
-                                <td><a href="https://facebook.com/<?=$row->fid?>" target="_blank"><?=$row->fid?></a></td>
-                                <td><?=$row->type?></td>
+                                <td><?=($row->admin == 1)?l("Yes"):l("No")?></td>
+                                
                                 <td><?=$row->fullname?></td>
-                                <td><?=$row->username?></td>
+                                <td><?=$row->email?></td>
                                 <td><?=$row->maximum_account?></td>
                                 <td><?=$row->expiration_date?></td>
-                                <td><?=$row->timezone?></td>
-                                <td><?=((strtotime(NOW) > strtotime($row->expiration_date)))?l('Account expiration'):l('Account ok') ?></td>
-                                <td><?=date("h:i Y/m/d", strtotime($row->expiration_date))?></td>
+                                <td><?=$row->history_id?></td>
+                                <td><?=$affiliate->sumcommission?></td>
+                                <td><?=$affiliate->user_rf?></td>
+                                <td><?=date("h:i Y/m/d", strtotime($row->created))?></td>
                                 <td style="width: 60px;">
                                     <div class="switch">
                                         <label><input type="checkbox" class="btnActionModuleItem" <?=$row->status==1?"checked":""?>><span class="lever switch-col-light-blue"></span></label>
@@ -74,7 +77,6 @@
                                 <td style="width: 80px;">
                                     <div class="btn-group" role="group">
                                         <a href="<?=cn('update?id='.$row->id)?>" class="btn bg-light-green waves-effect"><i class="fa fa-pencil" aria-hidden="true"></i></a>
-                                        
                                         <button type="button" class="btn bg-light-green waves-effect btnActionModuleItem" data-action="delete" data-confirm="<?=l('Are you sure you want to delete this item?')?>"><i class="fa fa-trash" aria-hidden="true"></i></button>
                                     </div>
                                 </td>
